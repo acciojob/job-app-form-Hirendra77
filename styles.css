@@ -1,2 +1,16 @@
 
-/* Your CSS Code here. */
+#btn{
+    margin: 13px 13px;
+    width: 100px;
+}
+.container{
+    margin-left: 10px;
+    padding-top: 10px;
+}
+label{
+    margin: 5px 5px;
+}
+input{
+    padding: 6px 6px;
+    margin: 10px 10px;
+}
